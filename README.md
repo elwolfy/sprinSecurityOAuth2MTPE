@@ -1,5 +1,5 @@
 # sprinSecurityOAuth2MTPE
-sprinSecurityOAuth2MTPE
+springSecurityOAuth2MTPE
 
 Con esta prueba, se demuestra la viabilidad técnica para la generación de tokens (autenticación) y la autorización de acceso a recursos (Servicios API REST) con Spring Security y OAuth2 en un mismo contexto de aplicación.
 
